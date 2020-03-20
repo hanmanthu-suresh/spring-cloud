@@ -1,7 +1,5 @@
 # spring-cloud-config
 
-# spring-cloud-config
-
 
 
 Testing URL:
